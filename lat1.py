@@ -2,7 +2,7 @@ print("Latihan dasar python")
 
 print("Program menghitung luas persegi panjang")
 
-p = float(input("Masukkan panjang   : "))
+p = float(input("Masukkan panjang    : "))
 l = float(input("Masukkan lebar : "))
 
 luas = p * l
