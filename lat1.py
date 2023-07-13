@@ -1,4 +1,4 @@
-print("Latihan dasar python")
+print("Lat ihan dasar python")
 
 print("Program menghitung luas persegi panjang")
 
